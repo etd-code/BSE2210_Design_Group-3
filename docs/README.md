@@ -13,11 +13,12 @@
 ### 📂 Repository Structure
 ```
 BSE2210_Design_Group 3/
+|
+└── audio/
+|    └── discussion.mp3 (group discussion recording)
 ├── docs/
 │   ├── report.pdf (main research dossier with artifacts)
 │   └── README.md (this file)
-└── audio/
-    └── discussion.mp3 (group discussion recording)
 ```
 
 ---
