@@ -14,7 +14,7 @@
 ```
 BSE2210_Design_GroupXX/
 ├── docs/
-│   ├── report.md (main research dossier with artifacts)
+│   ├── report.pdf (main research dossier with artifacts)
 │   └── README.md (this file)
 └── audio/
     └── discussion.mp3 (group discussion recording)
