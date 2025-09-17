@@ -12,7 +12,7 @@
 
 ### 📂 Repository Structure
 ```
-BSE2210_Design_GroupXX/
+BSE2210_Design_Group 3/
 ├── docs/
 │   ├── report.pdf (main research dossier with artifacts)
 │   └── README.md (this file)
