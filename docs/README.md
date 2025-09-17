@@ -2,11 +2,11 @@
 ## Assignment 1: Foundations of Modern Software Design (Introduction Unit)
 
 ### 📌 Team Information
-| Name | Student Name | Role |
+| Member | Student Name | Role |
 |------|------------|------|
-| Member A | Mwamba Emmanuel | Design & Principles Lead |
-| Member B | Nonde Elijah | Business Analyst |
-| Member C | Leonard Nyirenda | Culture & Ops Lead |
+| A | Mwamba Emmanuel | Design & Principles Lead |
+| B | Nonde Elijah | Business Analyst |
+| C | Leonard Nyirenda | Culture & Ops Lead |
 
 ---
 
