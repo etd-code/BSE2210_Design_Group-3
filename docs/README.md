@@ -1,13 +1,60 @@
- **Team Roles**
+# BSE 2210 — Software Design
+## Assignment 1: Foundations of Modern Software Design (Introduction Unit)
 
-**Member A - Mwamba Emmanuel** — 
-Design & Principles Lead: design process/artifacts, trends, principles vs
- application-rst.
+### 📌 Team Information
+| Name | Student ID | Role |
+|------|------------|------|
+| Member A | Mwamba Emmanuel | Design & Principles Lead |
+| Member B | Nonde Elijah | Business Analyst |
+| Member C | Leonard Nyirenda | Culture & Ops Lead |
 
+---
 
-**Member B - Nonde Elijah** — 
-Business Analyst: business case, outsourcing analysis.
+### 📂 Repository Structure
+```
+BSE2210_Design_GroupXX/
+├── docs/
+│   ├── report.md (main research dossier with artifacts)
+│   └── README.md (this file)
+└── audio/
+    └── discussion.mp3 (group discussion recording)
+```
 
+---
 
-**Member C - Nyirenda Leonard** — 
-Culture & Ops Lead: cultural intelligence, DevOps/DevSecOps, AI & ethics.
+### ✨ Contributions
+- **Member A (Design & Principles Lead):**
+  - Explained design as process and artifact
+  - Produced UML diagram and ADR
+  - Covered modern trends and principles vs application-first
+
+- **Member B (Business Analyst):**
+  - Developed business case for USEP
+  - Researched and analyzed outsourcing options
+  - Defended nearshore outsourcing recommendation
+
+- **Member C (Culture & Ops Lead):**
+  - Defined cultural intelligence requirements (multilingual UI, accessibility)
+  - Created CI/CD pipeline diagram with DevSecOps integration
+  - Evaluated AI opportunity and ethical concern
+
+---
+
+### 🧠 Reflection on AI Usage
+- **AI Tools Used:** Drafting structure of report, generating diagrams, brainstorming design trends  
+- **Human Effort:** Critical thinking, refinement of business case, creation of final artifacts, recording group discussion  
+- **Balance:** AI assisted in structuring and ideation, but all final choices, refinements, and discussions were **human-driven**  
+
+---
+
+### ✅ Deliverables Checklist
+- [x] `docs/report.md` — Research dossier with artifacts  
+- [x] `audio/discussion.mp3` — 8–12 minute live group discussion  
+- [x] `docs/README.md` — Team details, contributions, reflections  
+- [ ] Submission of GitHub repo link via Google Form  
+
+---
+
+### 📅 Submission
+Due: **September 18, 2025** (Africa/Lusaka)  
+Submit via: [Google Form](https://forms.gle/YL1RXwbxfFkwRGVY7)  
