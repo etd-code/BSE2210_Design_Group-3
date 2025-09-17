@@ -51,5 +51,5 @@ BSE2210_Design_GroupXX/
 - [x] `docs/report.pdf` — Research dossier with artifacts  
 - [x] `audio/discussion.mp3` — 8–12 minute live group discussion  
 - [x] `docs/README.md` — Team details, contributions, reflections  
-- [ ] Submission of GitHub repo link via Google Form  
+- [x] Submission of GitHub repo link via Google Form  
 
