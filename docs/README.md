@@ -48,13 +48,8 @@ BSE2210_Design_GroupXX/
 ---
 
 ### ✅ Deliverables Checklist
-- [x] `docs/report.md` — Research dossier with artifacts  
+- [x] `docs/report.pdf` — Research dossier with artifacts  
 - [x] `audio/discussion.mp3` — 8–12 minute live group discussion  
 - [x] `docs/README.md` — Team details, contributions, reflections  
 - [ ] Submission of GitHub repo link via Google Form  
 
----
-
-### 📅 Submission
-Due: **September 18, 2025** (Africa/Lusaka)  
-Submit via: [Google Form](https://forms.gle/YL1RXwbxfFkwRGVY7)  
