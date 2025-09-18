@@ -48,9 +48,9 @@ BSE2210_Design_Group 3/
 
 ---
 
-### ✅ Deliverables Checklist
-- [x] `docs/report.pdf` — Research dossier with artifacts  
+### ✅ Deliverables Checklist  
 - [x] `audio/discussion.mp3` — 8–12 minute live group discussion  
-- [x] `docs/README.md` — Team details, contributions, reflections  
+- [x] `docs/README.md` — Team details, contributions, reflections
+- [x] `docs/report.pdf` — Research dossier with artifacts
 - [x] Submission of GitHub repo link via Google Form  
 
